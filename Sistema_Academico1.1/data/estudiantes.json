@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "nombre": "David",
+    "apellido": "Pacheco",
+    "email": "david@gmail.com",
+    "carnet": "0987654321",
+    "carrera": "Software"
+  }
+]
